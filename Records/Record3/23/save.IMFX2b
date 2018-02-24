@@ -1,0 +1,35 @@
+
+173.252.120.81»"ï
+POST /ajax/bz HTTP/1.1
+Hostwww.instagram.com
+
+Connection
+keep-alive
+Content-Length442#
+Originhttps://www.instagram.com
+X-Instagram-AJAX1w
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36/
+Content-Typeapplication/json; charset=UTF-88
+Accept.application/json, text/javascript, */*; q=0.01"
+X-Requested-WithXMLHttpRequest/
+X-CSRFToken 86d54d2c44da8031ab96fd0b50984542%
+Refererhttps://www.instagram.com/ 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8k
+Cookieacsrftoken=86d54d2c44da8031ab96fd0b50984542; mid=Vucy0gAEAAG6HYfi3uRgx_YGHi4x; ig_pr=1; ig_vw=1040º{"q":[{"page_id":"f0vm65","posts":[["qe:expose",{"qe":"discovery"},1457992403761,0],["qe:expose",{"qe":"su"},1457992403765,0],["slipstream:pageview",{"description":"unifiedHome","event_name":"pageview","platform":"web","extra":"{\"gk\":{\"rhp\":true},\"qe\":{\"su\":\"control_20160106\"}}","hostname":"www.instagram.com","path":"/","referer":"","url":"https://www.instagram.com/"},1457992403782,0]],"trigger":"qe:expose"}],"ts":1457992404649}*ø
+HTTP/1.1 200 OK*
+Strict-Transport-Securitymax-age=86400
+Content-Languageen(
+ExpiresSat, 01 Jan 2000 00:00:00 GMT
+VaryCookie, Accept-Language
+Pragmano-cache=
+Cache-Control,private, no-cache, no-store, must-revalidate%
+DateMon, 14 Mar 2016 21:53:24 GMT 
+Content-Typeapplication/jsony
+
+Set-Cookiekcsrftoken=86d54d2c44da8031ab96fd0b50984542; expires=Mon, 13-Mar-2017 21:53:24 GMT; Max-Age=31449600; Path=/
+
+Connection
+keep-alive
+Content-Length15{"status":"ok"}

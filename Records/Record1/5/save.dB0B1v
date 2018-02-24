@@ -1,0 +1,45 @@
+
+98.138.243.53ª"·
+üPOST /v1/public/yql?yhlVer=2&yhlClient=rapid&yhlS=2142170772&yhlCT=2&yhlBTMS=1457991150205&yhlClientVer=3.29.1&yhlRnd=N7doUVbyzT78CTMm&yhlCompressed=0 HTTP/1.1
+Hostgeo.query.yahoo.com
+
+Connection
+keep-alive
+Content-Length2163
+Originhttps://br.yahoo.comw
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36@
+Content-Type0application/x-www-form-urlencoded; charset=UTF-8
+Accept*/*%
+Refererhttps://br.yahoo.com/?p=us 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8"
+CookieB=3063bhdbeebch&b=3&s=pmÛq=select%20*%20from%20x%20where%20a%20%3D%20'%7B%22bp%22%3A%7B%22_pl%22%3A1%2C%22A_v%22%3A%223.29.1%22%2C%22test%22%3A%22707%22%2C%22_bt%22%3A%22rapid%22%2C%22A_pr%22%3A%22https%22%2C%22A_tzoff%22%3A-3%7D%2C%22r%22%3A%5B%7B%22t%22%3A%22lv%22%2C%22s%22%3A%222142170772%22%2C%22pp%22%3A%7B%22A_sid%22%3A%22GB3F4OT9PHhRxSq5%22%2C%22_w%22%3A%22br.yahoo.com%2F%3Fp%3Dus%22%2C%22_rid%22%3A%229l9ogf1beebch%22%2C%22mrkt%22%3A%22br%22%2C%22pt%22%3A%221%22%2C%22ver%22%3A%22ss%22%2C%22uh_vw%22%3A0%2C%22colo%22%3A%22slw21.fp.gq1.yahoo.com%22%2C%22navtype%22%3A%22server%22%2C%22nob%22%3A%221%22%2C%22bw%22%3A%221025%22%2C%22bh%22%3A%22606%22%7D%2C%22_ts%22%3A1457991150%2C%22lv%22%3A%5B%7B%22m%22%3A%22td-fea%22%2C%22l%22%3A%5B%7B%22_p%22%3A41%2C%22slk%22%3A%22Reprodu%C3%A7%C3%A3o%22%2C%22rspns%22%3A%22nav%22%2C%22t1%22%3A%22a3%22%2C%22t2%22%3A%22td%22%2C%22t3%22%3A%22fea%22%2C%22elm%22%3A%22img%22%2C%22elmt%22%3A%22ct%22%2C%22itc%22%3A%220%22%2C%22cpos%22%3A%2210%22%2C%22pkgt%22%3A%221%22%2C%22ccode%22%3A%22p_pt_br_sp_v2_phrase_sherpa%22%2C%22aid%22%3A%22id-245518%22%2C%22g%22%3A%227b9ff38d-d125-3228-8848-7c96bafe3695%22%7D%2C%7B%22_p%22%3A42%2C%22slk%22%3A%22Rela%C3%A7%C3%B5es%20proibidas%20e%20sexos%20com%20animais%3A%20bizarrices%20em%20filmes%22%2C%22rspns%22%3A%22nav%22%2C%22t1%22%3A%22a3%22%2C%22t2%22%3A%22td%22%2C%22t3%22%3A%22fea%22%2C%22elm%22%3A%22hdln%22%2C%22elmt%22%3A%22ct%22%2C%22itc%22%3A%220%22%2C%22cpos%22%3A%2210%22%2C%22pkgt%22%3A%221%22%2C%22ccode%22%3A%22p_pt_br_sp_v2_phrase_sherpa%22%2C%22aid%22%3A%22id-245518%22%2C%22g%22%3A%227b9ff38d-d125-3228-8848-7c96bafe3695%22%7D%2C%7B%22_p%22%3A43%2C%22slk%22%3A%22Fique%20de%20cabelo%20em%20p%C3%A9%20com%20a%20galeria!%20%C2%BB%22%2C%22rspns%22%3A%22nav%22%2C%22t1%22%3A%22a3%22%2C%22t2%22%3A%22td%22%2C%22t3%22%3A%22fea%22%2C%22elm%22%3A%22rhdln%22%2C%22elmt%22%3A%22ct%22%2C%22itc%22%3A%220%22%2C%22cpos%22%3A%2210%22%2C%22pkgt%22%3A%221%22%2C%22ccode%22%3A%22p_pt_br_sp_v2_phrase_sherpa%22%2C%22aid%22%3A%22id-245518%22%2C%22g%22%3A%227b9ff38d-d125-3228-8848-7c96bafe3695%22%7D%5D%2C%22ylk%22%3A%7B%7D%7D%5D%7D%5D%2C%22yrid%22%3A%22%22%2C%22optout%22%3A%220%22%2C%22nol%22%3A%220%22%7D'*Å	
+HTTP/1.1 200 OK)
+
+X-YQL-Hostengine171.yql.ne1.yahoo.com!
+X-Content-Type-Optionsnosniff3
+Access-Control-Allow-Originhttps://br.yahoo.comH
+Cache-Control7private, no-cache, no-store, must-revalidate, max-age=0Ÿ
+P3P—policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Pragmano-cache(
+ExpiresWed, 01 Mar 1995 00:00:00 GMT(
+ Access-Control-Allow-CredentialstrueN
+Access-Control-Allow-Headers.Origin, X-Requested-With, Content-Type, Accept-
+Access-Control-Allow-MethodsPOST, OPTIONS(
+Content-Typetext/plain;charset=utf-8%
+DateMon, 14 Mar 2016 21:32:30 GMT
+ServerATS
+Age0
+Transfer-Encodingchunked
+
+Connection
+keep-aliveªf3
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2016-03-14T21:32:30Z" yahoo:lang="en-US"><results><result>0 ywamob, 1 geo. 1 geo, 0 ywa.</result></results></query>
+37
+<!-- total: 5 -->
+<!-- engine171.yql.ne1.yahoo.com -->
+
+0
+

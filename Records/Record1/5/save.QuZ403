@@ -1,0 +1,45 @@
+
+98.138.243.53ª"–
+üPOST /v1/public/yql?yhlVer=2&yhlClient=rapid&yhlS=2142170772&yhlCT=2&yhlBTMS=1457991061199&yhlClientVer=3.29.1&yhlRnd=S4DQ71a3dKD9ZKH6&yhlCompressed=3 HTTP/1.1
+Hostgeo.query.yahoo.com
+
+Connection
+keep-alive
+Content-Length1122
+Originhttps://br.yahoo.comw
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36@
+Content-Type0application/x-www-form-urlencoded; charset=UTF-8
+Accept*/*%
+Refererhttps://br.yahoo.com/?p=us 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8"
+CookieB=3063bhdbeebch&b=3&s=pm‚q=select%20*%20from%20x%20where%20a%20%3D%20'pZbNjtMwEMdfpfK5LU3cj20lhJYDLCcQHye0qpzUTa11bGM7LaXad0HiwDtw7YsxdmJndwv4wG3G8%2BvM%2BG%2FXkxMqFFqd0FpxtMqG6Hq9RyuEx%2FlynKEhstRY8BeTBTjrwtmaKLZBjlQa3J21ynjXfpPbLVqN8P0QQeTzCTmc7yFowMizaZ5BokUOC8oXvV4bSLVCr1%2FiV9O3H5fvbnbvv374MnO1DrBe6PGR7KQcl7J%2B9kI9b1whwyyF2FZLYRWpKCztqeuk2WEXVwZyI2OJ2BDtGuVEVLCi7KjQ4Da7dbcr3zWpwcoQ9Ly20GY2nS2Wy2wyBy2gdbeL2uce%2BVR%2BYa28VIbfuf3L2rVgZ8G%2BH7ZEHoiaMB4IbwcCB0LQgwmEtwMxDYRRUtvIdF6gZoHaMkFEGdsJbuDmgSspp4Vm9hjIfiGwi1jZHnnM2DqBuYo7lHtGY3edF6hloIgwB6ojFtzAZZO4Dc7KOx130XoRy%2Fqq2jWmjRLufknVN%2BADlNfulOsGbGbL7pi7LP3pUGOoqGis1y9EOB5UpWWj4g46z2GGuvyfbtzNdb%2BIB6c6TZ8CsxQwTwGLFHCVApYJIJ%2BkgCwF5CkAp4CUknlKyTylZJ5SMk8pmaeUxCklcUpJnFISp5TEKSVxSkmcUhKnlMQpJXFKyWlKyWlKyeljJW%2BH6Oi8U3xIBHEji5Tu8Sjd4%2BP%2B75l7sfxEzPtxYDHYtgjvgfIPap%2FbP0FgM1v3z1EbaN%2BjCbp3Df57wHBZyVAr2LPe7krUVV%2FCRy7GkNHljgmYgrvNRvzhScQPwQMtQk3nxvc%2FhtqyhRV92QASN4wvR9hWl3JD%2F1Y93r03eqCIJgMygHOgFTn%2FPP%2FodzN%2FislBCd8B9PxrIwdKM1EyRfoJu3iKl5I3ggzO3wcbpimz5HKYNQamEqsEiwfMRxy%2BFzoJHoZbESx%2FIH3FLgefG%2FruJ7LNcpnzMXCZtf1q%2BJ%2Bb2t%2B3W59H%2B%2B8uCEhlZWN9bIiE5C31Gw%3D%3D'*Å	
+HTTP/1.1 200 OK)
+
+X-YQL-Hostengine182.yql.ne1.yahoo.com!
+X-Content-Type-Optionsnosniff3
+Access-Control-Allow-Originhttps://br.yahoo.comH
+Cache-Control7private, no-cache, no-store, must-revalidate, max-age=0Ÿ
+P3P—policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Pragmano-cache(
+ExpiresWed, 01 Mar 1995 00:00:00 GMT(
+ Access-Control-Allow-CredentialstrueN
+Access-Control-Allow-Headers.Origin, X-Requested-With, Content-Type, Accept-
+Access-Control-Allow-MethodsPOST, OPTIONS(
+Content-Typetext/plain;charset=utf-8%
+DateMon, 14 Mar 2016 21:31:01 GMT
+ServerATS
+Age0
+Transfer-Encodingchunked
+
+Connection
+keep-aliveªf3
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2016-03-14T21:31:01Z" yahoo:lang="en-US"><results><result>0 ywamob, 1 geo. 1 geo, 0 ywa.</result></results></query>
+37
+<!-- total: 7 -->
+<!-- engine182.yql.ne1.yahoo.com -->
+
+0
+

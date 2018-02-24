@@ -1,0 +1,23 @@
+
+198.11.136.254P"É
+!POST /csp?app=ae_default HTTP/1.1
+Hostpointman.alibaba.com
+
+Connection
+keep-alive
+Content-Length1673"
+Originhttp://pt.aliexpress.comw
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36&
+Content-Typeapplication/csp-report
+Accept*/*/
+Referer$http://pt.aliexpress.com/br_home.htm 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8‰{"csp-report":{"document-uri":"http://pt.aliexpress.com/br_home.htm","referrer":"","violated-directive":"default-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.aliexpress.com *.aliunicorn.com *.alipay.com *.aliyun.com *.alicdn.com *.aliimg.com *.alibaba.com *.alisoft.com *.doubleclick.net *.mmstat.com *.greencompute.org *.video.taobao.com *.itao.com *.tbcdn.cn *.taobaocdn.com *.akamaihd.net *.taobao.com www.google-analytics.com https://stylessl.aliunicorn.com https://assets.alicdn.com https://ynuf.alipay.com https://login.alibaba.com https://login.aliexpress.com *.amap.com *.cnzz.com *.cnzz.net apis.google.com *.googleapis.com translate.google.com www.gstatic.com https://www.google.com bs.yandex.ru mc.yandex.ru vk.com *.vk.me *.facebook.com connect.facebook.net static.criteo.net *.criteo.com","effective-directive":"img-src","original-policy":"default-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.aliexpress.com *.aliunicorn.com *.alipay.com *.aliyun.com *.alicdn.com *.aliimg.com *.alibaba.com *.alisoft.com *.doubleclick.net *.mmstat.com *.greencompute.org *.video.taobao.com *.itao.com *.tbcdn.cn *.taobaocdn.com *.akamaihd.net *.taobao.com www.google-analytics.com https://stylessl.aliunicorn.com https://assets.alicdn.com https://ynuf.alipay.com https://login.alibaba.com https://login.aliexpress.com *.amap.com *.cnzz.com *.cnzz.net apis.google.com *.googleapis.com translate.google.com www.gstatic.com https://www.google.com bs.yandex.ru mc.yandex.ru vk.com *.vk.me *.facebook.com connect.facebook.net static.criteo.net *.criteo.com;;report-uri //pointman.alibaba.com/csp?app=ae_default","blocked-uri":"https://www.google.com.br","status-code":200}}*…
+HTTP/1.1 200 OK
+ServerTengine%
+DateMon, 14 Mar 2016 22:25:45 GMT
+Transfer-Encodingchunked
+
+Connectionclose0
+

@@ -1,0 +1,28 @@
+
+23.45.70.146»"Â
+–POST /dynaTraceMonitor?dtCookie=A24696ED213551908E4D2D7186431703%7CQWRvYmUrZUNvbW1lcmNlfDE;dtLatC=-4260;referer=http%3A%2F%2Fwww.adobe.com%2F HTTP/1.1
+Hostwww.adobe.com
+
+Connection
+keep-alive
+Content-Length421
+Originhttp://www.adobe.comw
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36(
+Content-Typetext/plain;charset=UTF-8
+Accept*/* 
+Refererhttp://www.adobe.com/ 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8¥$a=1%7C3%7CChoose%20your%20regionThe%20Adobe%20USA%20site%20had%20been%20optimized%20for%20users%20within%20the%20United%20States.%20If%20yo...%7CS%7Cx%7C1458067785207%7C1458067785749%7C852%7C-%7C-%7Chttp%3A%2F%2Fapi.iperceptions.com%2FInviteTriggers$v=62$fId=67778081_485$rId=RID_2418$rpId=348242557$title=Adobe%3A%20Creative%2C%20marketing%20and%20document%20management%20solutions$domR=1458067784616$time=1458067785752*“
+HTTP/1.1 200 OK
+ServerApache&
+Cache-Controlno-cache, max-age=9003
+Access-Control-Allow-Originhttp://www.adobe.com
+Content-Length81(
+ExpiresTue, 15 Mar 2016 19:04:45 GMT
+X-Adobe-Locda1)
+Content-Typetext/plain; charset=utf-8%
+DateTue, 15 Mar 2016 18:49:45 GMT
+
+Connection
+keep-aliveQOK(Webserver)|dtCookie=A24696ED213551908E4D2D7186431703%7CQWRvYmUrZUNvbW1lcmNlfDE

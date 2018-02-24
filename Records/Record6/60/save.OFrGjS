@@ -1,0 +1,23 @@
+
+198.11.136.254P"¶
+POST /csp?app=default HTTP/1.1
+Hostpointman.alibaba.com
+
+Connection
+keep-alive
+Content-Length3464 
+Originhttp://www.alibaba.comw
+
+User-AgentiMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36&
+Content-Typeapplication/csp-report
+Accept*/*"
+Refererhttp://www.alibaba.com/ 
+Accept-Encodinggzip, deflate!
+Accept-Languageen-US,en;q=0.8ˆ{"csp-report":{"document-uri":"http://www.alibaba.com/","referrer":"","violated-directive":"img-src 'self' data: *.alibaba.com *.alisoft.com *.aliyun.com *.alipay.com *.aliexpress.com *.taobao.com *.taobao.net https://assets.alicdn.com https://login.alibaba.com *.alicdn.com *.tbcdn.com *.tbcdn.cn *.aliimg.com *.aliunicorn.com *.1688.com https://*.1688.com *.taobaocdn.com *.taobaocdn.cn *.mmstat.com *.alimama.com *.alimama.cn *.amap.com *.meitipu.com yui.yahooapis.com *.amap.com http://localhost.wwbizsrv.alibaba.com:4012 http://localhost.wwbizsrv.alibaba.com:4812 https://localhost.wwbizsrv.alibaba.com:4013 https://localhost.wwbizsrv.alibaba.com:4813 *.cnzz.com *.cnzz.net www.google.com apis.google.com translate.googleapis.com translate.google.com widgets.twimg.com platform.twitter.com twitter.com www.google-analytics.com www.googleadservices.com googleads.g.doubleclick.net stats.g.doubleclick.net","effective-directive":"img-src","original-policy":"style-src 'self' 'unsafe-inline' *.alibaba.com *.alisoft.com *.aliyun.com *.alipay.com *.aliexpress.com *.taobao.com *.taobao.net https://assets.alicdn.com https://login.alibaba.com *.alicdn.com *.tbcdn.com *.tbcdn.cn *.aliimg.com *.aliunicorn.com *.1688.com https://*.1688.com *.taobaocdn.com *.taobaocdn.cn *.mmstat.com *.alimama.com *.alimama.cn *.amap.com *.meitipu.com yui.yahooapis.com *.amap.com http://localhost.wwbizsrv.alibaba.com:4012 http://localhost.wwbizsrv.alibaba.com:4812 https://localhost.wwbizsrv.alibaba.com:4013 https://localhost.wwbizsrv.alibaba.com:4813 *.cnzz.com *.cnzz.net www.google.com apis.google.com translate.googleapis.com translate.google.com widgets.twimg.com platform.twitter.com twitter.com;img-src 'self' data: *.alibaba.com *.alisoft.com *.aliyun.com *.alipay.com *.aliexpress.com *.taobao.com *.taobao.net https://assets.alicdn.com https://login.alibaba.com *.alicdn.com *.tbcdn.com *.tbcdn.cn *.aliimg.com *.aliunicorn.com *.1688.com https://*.1688.com *.taobaocdn.com *.taobaocdn.cn *.mmstat.com *.alimama.com *.alimama.cn *.amap.com *.meitipu.com yui.yahooapis.com *.amap.com http://localhost.wwbizsrv.alibaba.com:4012 http://localhost.wwbizsrv.alibaba.com:4812 https://localhost.wwbizsrv.alibaba.com:4013 https://localhost.wwbizsrv.alibaba.com:4813 *.cnzz.com *.cnzz.net www.google.com apis.google.com translate.googleapis.com translate.google.com widgets.twimg.com platform.twitter.com twitter.com www.google-analytics.com www.googleadservices.com googleads.g.doubleclick.net stats.g.doubleclick.net;script-src 'self' 'unsafe-inline' 'unsafe-eval' *.alibaba.com *.alisoft.com *.aliyun.com *.alipay.com *.aliexpress.com *.taobao.com *.taobao.net https://assets.alicdn.com https://login.alibaba.com *.alicdn.com *.tbcdn.com *.tbcdn.cn *.aliimg.com *.aliunicorn.com *.1688.com https://*.1688.com *.taobaocdn.com *.taobaocdn.cn *.mmstat.com *.alimama.com *.alimama.cn *.amap.com *.meitipu.com yui.yahooapis.com *.amap.com http://localhost.wwbizsrv.alibaba.com:4012 http://localhost.wwbizsrv.alibaba.com:4812 https://localhost.wwbizsrv.alibaba.com:4013 https://localhost.wwbizsrv.alibaba.com:4813 *.cnzz.com *.cnzz.net www.google.com apis.google.com translate.googleapis.com translate.google.com widgets.twimg.com platform.twitter.com twitter.com www.google-analytics.com www.googleadservices.com googleads.g.doubleclick.net stats.g.doubleclick.net;;report-uri //pointman.alibaba.com/csp?app=default","blocked-uri":"http://cm.g.doubleclick.net","status-code":200}}*…
+HTTP/1.1 200 OK
+ServerTengine%
+DateTue, 15 Mar 2016 17:19:46 GMT
+Transfer-Encodingchunked
+
+Connectionclose0
+
