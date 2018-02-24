@@ -1,0 +1,4 @@
+#!/bin/bash
+
+phantomjs confess.js https://google.com performance > ./testfolder/test.txt
+cat test.txt | grep "Elapsed load time" | awk -F ":" '{print $2}' | tr -d '[[:space:]]' > plt.txt
